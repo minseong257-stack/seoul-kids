@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-11-07T00:30:32.565Z",
+ "updatedAt": "2026-11-07T11:58:27.026Z",
  "sample": true,
- "count": 5,
+ "count": 4,
  "items": [
   {
    "id": "S261020130856222352",
@@ -68,28 +68,6 @@
    "lat": 37.57006,
    "lng": 126.87948,
    "summary": "</p><figure class=\"easyimage easyimage-full\"><img alt=\"\" src=\"blob:https://yeyak.seoul.go.kr/f2f0e4c8-f1b4-4fa9-b97b-41bf7b839f3a\" width=\"1080\" /> <figcaption></figcaption> </figure> <figure class=\"easyimage easyimage-fu"
-  },
-  {
-   "id": "S261027093025892286",
-   "title": "[강서습지] 강서습지 새를 보다 -새들은 왜 먼거리를 이동할까?-",
-   "place": "강서한강공원>강서습지생태공원>강서습지생태공원안내센터",
-   "gu": "강서구",
-   "category": "자연/과학",
-   "status": "접수중",
-   "target": "가족(초등이상 포함 가족)",
-   "free": true,
-   "fee": "무료",
-   "method": "",
-   "applyStart": "2026-10-27T00:00:00+09:00",
-   "applyEnd": "2026-11-29T00:00:00+09:00",
-   "useStart": "2026-10-27T00:00:00+09:00",
-   "useEnd": "2026-11-29T00:00:00+09:00",
-   "url": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S261027093025892286",
-   "img": "https://yeyak.seoul.go.kr/web/common/file/FileDown.do?file_id=1793061289844D6A1I3YFROVLNMZO52Q2PHE5I",
-   "tel": "",
-   "lat": 37.586039665497296,
-   "lng": 126.81714580273987,
-   "summary": "</p><div style=\"text-align: left;\"> <div><span style=\"font-size: 14px;\"><strong> </strong></span><span style=\"font-size: 14px;\"></span></div> </div> <figure class=\"image\"><img alt=\"제목을 입력해주세요..jpg\" class=\"v_img\" src=\"/cm"
   },
   {
    "id": "S261020095302613204",
