@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-11-08T12:18:20.539Z",
+ "updatedAt": "2026-11-09T00:19:41.834Z",
  "sample": true,
- "count": 4,
+ "count": 3,
  "items": [
   {
    "id": "S261020130856222352",
@@ -24,28 +24,6 @@
    "lat": 37.570500279648634,
    "lng": 126.97037430869801,
    "summary": "2026년 백인제가옥 온라인 교육프로그램 백인제가옥의 숨겨진 비밀을 찾아라 ! 서울역사박물관 분관인 백인제가옥은 초등학생 ( 전 학년 ) 과 학부모를 위해 백인제가옥의 숨겨진 비밀을 찾아라 ! 온라인 교육을 마련하였습니다 . 이 프로그램은 선발된 교육생의 집으로 배송된 활동지와 교구재를 가지고 진행하는 실시간 원격 화상교육 수업입니다 . 해당 교육에서는 백인제가옥이 근대한옥으로서 지닌 건축적"
-  },
-  {
-   "id": "S241020133908222134",
-   "title": "[강서습지] 제3회 강서습지생태공원 가족탐조",
-   "place": "강서한강공원>강서습지생태공원>강서습지생태공원안내센터",
-   "gu": "강서구",
-   "category": "자연/과학",
-   "status": "접수중",
-   "target": "가족(초등학생 이상 동반 가족)",
-   "free": true,
-   "fee": "무료",
-   "method": "",
-   "applyStart": "2026-10-16T00:00:00+09:00",
-   "applyEnd": "2026-11-20T00:00:00+09:00",
-   "useStart": "2026-10-16T00:00:00+09:00",
-   "useEnd": "2026-11-21T00:00:00+09:00",
-   "url": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S241020133908222134",
-   "img": "https://yeyak.seoul.go.kr/web/common/file/FileDown.do?file_id=1792135069536HWMTW12ZPU60VQYPUKFM506AZ",
-   "tel": "",
-   "lat": 37.586039665497296,
-   "lng": 126.81714580273987,
-   "summary": "</p><div style=\"text-align: left;\"> <div><span style=\"font-size: 14px;\"><strong> </strong></span><strong><span style=\"font-size:36px;\"><span style=\"color:#e74c3c;\"></span></span><span style=\"font-size:36px;\"><span style="
   },
   {
    "id": "S261024094509694291",
