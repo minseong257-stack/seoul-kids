@@ -1,30 +1,8 @@
 {
- "updatedAt": "2026-11-18T14:39:58.094Z",
+ "updatedAt": "2026-11-19T02:08:04.518Z",
  "sample": true,
- "count": 3,
+ "count": 2,
  "items": [
-  {
-   "id": "S241020133908222134",
-   "title": "[강서습지] 제3회 강서습지생태공원 가족탐조",
-   "place": "강서한강공원>강서습지생태공원>강서습지생태공원안내센터",
-   "gu": "강서구",
-   "category": "자연/과학",
-   "status": "접수중",
-   "target": "가족(초등학생 이상 동반 가족)",
-   "free": true,
-   "fee": "무료",
-   "method": "",
-   "applyStart": "2026-10-16T00:00:00+09:00",
-   "applyEnd": "2026-11-20T00:00:00+09:00",
-   "useStart": "2026-10-16T00:00:00+09:00",
-   "useEnd": "2026-11-21T00:00:00+09:00",
-   "url": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S241020133908222134",
-   "img": "https://yeyak.seoul.go.kr/web/common/file/FileDown.do?file_id=1792135069536HWMTW12ZPU60VQYPUKFM506AZ",
-   "tel": "",
-   "lat": 37.586039665497296,
-   "lng": 126.81714580273987,
-   "summary": "</p><div style=\"text-align: left;\"> <div><span style=\"font-size: 14px;\"><strong> </strong></span><strong><span style=\"font-size:36px;\"><span style=\"color:#e74c3c;\"></span></span><span style=\"font-size:36px;\"><span style="
-  },
   {
    "id": "S261024094509694291",
    "title": "[월드컵공원] 꽁지 불빛 반딧불이 해설(11월)",
