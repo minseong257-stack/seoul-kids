@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-11-20T01:57:02.366Z",
+ "updatedAt": "2026-11-20T14:28:14.720Z",
  "sample": true,
- "count": 2,
+ "count": 3,
  "items": [
   {
    "id": "S261024094509694291",
@@ -42,6 +42,28 @@
    "useEnd": "2026-11-30T00:00:00+09:00",
    "url": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S261020095302613204",
    "img": "https://yeyak.seoul.go.kr/web/common/file/FileDown.do?file_id=1792457604671SFS7ZNKMT5139GXGMM5HXIQZI",
+   "tel": "02-724-0200, 0232",
+   "lat": 37.580446301109994,
+   "lng": 126.98409156389062,
+   "summary": "백인제가옥은 북촌의 대표적인 근대한옥으로 , 전시해설을 통해 가옥의 안채와 사랑채 내부를 관람하며 한옥의 아름다움과 숨겨진 이야기를 알아보는 시간을 가질 수 있습니다 . ○ 전시해설 예약 방법 서울시 공공서비스 예약 검색창에 백인제 or 백인제가옥 입력 2026 백인제가옥 전시해설 예약 원하는 날짜 및 회차의 해설 선택 해설 예약 진행 해설 예약 바로가기 전화문의 : 02-724-0200, "
+  },
+  {
+   "id": "S261120094235570725",
+   "title": "2026 백인제가옥 전시해설 예약",
+   "place": "서울역사박물관>백인제가옥",
+   "gu": "종로구",
+   "category": "전시/관람",
+   "status": "접수중",
+   "target": "제한없음",
+   "free": true,
+   "fee": "무료",
+   "method": "",
+   "applyStart": "2026-11-20T10:30:00+09:00",
+   "applyEnd": "2026-11-30T17:30:00+09:00",
+   "useStart": "2026-12-01T00:00:00+09:00",
+   "useEnd": "2026-12-31T00:00:00+09:00",
+   "url": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S261120094235570725",
+   "img": "https://yeyak.seoul.go.kr/web/common/file/FileDown.do?file_id=1795135382767OCXEBG8T9YJD3K87PE9CGAET9",
    "tel": "02-724-0200, 0232",
    "lat": 37.580446301109994,
    "lng": 126.98409156389062,
