@@ -1,7 +1,7 @@
 {
- "updatedAt": "2026-11-21T13:46:32.264Z",
+ "updatedAt": "2026-11-22T00:47:41.321Z",
  "sample": true,
- "count": 3,
+ "count": 4,
  "items": [
   {
    "id": "S261024094509694291",
@@ -24,6 +24,28 @@
    "lat": 37.57006,
    "lng": 126.87948,
    "summary": "</p><figure class=\"easyimage easyimage-full\"><img alt=\"\" src=\"blob:https://yeyak.seoul.go.kr/f2f0e4c8-f1b4-4fa9-b97b-41bf7b839f3a\" width=\"1080\" /> <figcaption></figcaption> </figure> <figure class=\"easyimage easyimage-fu"
+  },
+  {
+   "id": "S261006111141567707",
+   "title": "[보라매공원] 유아숲 정원 늘봄 (평일, 유아기관단체)_11월",
+   "place": "보라매공원 관리사무소.>보라매공원 관리사무소",
+   "gu": "동작구",
+   "category": "교육체험",
+   "status": "접수중",
+   "target": "어린이",
+   "free": true,
+   "fee": "무료",
+   "method": "선착순",
+   "applyStart": "2026-10-26T10:00:00+09:00",
+   "applyEnd": "2026-11-24T17:00:00+09:00",
+   "useStart": "2026-11-03T00:00:00+09:00",
+   "useEnd": "2026-11-25T00:00:00+09:00",
+   "url": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S261006111141567707",
+   "img": "https://yeyak.seoul.go.kr/web/common/file/FileDown.do?file_id=1791252910634ESL1L362P9XGECNZNRLXGDQ24",
+   "tel": " 02-2181-1177",
+   "lat": 37.49488,
+   "lng": 126.91946,
+   "summary": "보라매공원 유아숲 정원 늘봄 (화,수 요일 )_11월 어린이집, 유치원 기관 단체 대상 공원 내 정원을 활용한 공원 생태 체험 11 월 활동 - 활동정원 : 에어파크 정원 - 가을빛 담은 에어파크 정원 가을 억새 관찰 - 동식물의 겨울 준비 알아보기 ❐ 모집 일시 : (화) 11 월 3, 10, 17, 24일 14:00~15:30 (수) 11월 4, 11, 18, 25일 10:00~11:30"
   },
   {
    "id": "S261020095302613204",
